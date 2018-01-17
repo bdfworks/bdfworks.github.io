@@ -1,3 +1,7 @@
+# Hello World!
+
+My name is bdfworks.  I'm a University of Texas Alumni with a BA in Computer Sciences.  I attended the main campus in beautiful Austin, TX.  I've collaborated on several entertainment software projects and hope to continue in the field of software development and design.  Originally from Houston, I've been programming since I was 6 years old.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bdfworks/bdfworks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
